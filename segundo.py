@@ -1,1 +1,0 @@
-print("hola me llamo thalia")
